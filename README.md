@@ -43,7 +43,7 @@
   <li><strong>Read:</strong> View entries with real-time updates.</li>
   <li><strong>Update:</strong> Modify details of existing entries.</li>
   <li><strong>Delete:</strong> Remove records easily.</li>
-  <li><strong>Responsive Design:</strong> Works seamlessly across devices.</li>
+<!--   <li><strong>Responsive Design:</strong> Works seamlessly across devices.</li> -->
 </ul>
 
 ---
