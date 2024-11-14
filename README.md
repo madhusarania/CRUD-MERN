@@ -14,7 +14,7 @@
   <li><a href="#features">Features</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
   <li><a href="#usage">Usage</a></li>
-  <li><a href="#screenshots">Screenshots</a></li>
+<!--   <li><a href="#screenshots">Screenshots</a></li> -->
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
@@ -32,7 +32,7 @@
   <li><strong>Backend:</strong> Node.js, Express.js</li>
   <li><strong>Database:</strong> MongoDB</li>
   <li><strong>Version Control:</strong> Git and GitHub</li>
-  <li><strong>Deployment:</strong> <em>Link to deployment (if available)</em></li>
+  
 </ul>
 
 ---
@@ -76,7 +76,7 @@ npm install
 <pre>
 <code>
 MONGODB_URI=&lt;your_mongodb_connection_string&gt;
-PORT=5000
+PORT=8000
 </code>
 </pre>
 
@@ -108,15 +108,9 @@ npm start
 <h2 id="usage">🎉 Usage</h2>
 <p>After setup, open <a href="http://localhost:3000">http://localhost:3000</a> to interact with the app, where you can add, view, update, and delete records.</p>
 
----
 
-<h2 id="screenshots">📸 Screenshots</h2>
-<p>Replace the placeholders below with actual screenshot URLs:</p>
-<ul>
-  <li><strong>Home Page</strong></li>
-  <li><strong>Add User</strong></li>
-  <li><strong>Update User</strong></li>
-</ul>
+
+
 
 ---
 
@@ -129,5 +123,5 @@ npm start
 <p>Madhu Sarania</p>
 <ul>
   <li><a href="https://github.com/madhusarania">GitHub</a></li>
-  <li><a href="https://www.linkedin.com/in/your-profile">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/madhusarania/">LinkedIn</a></li>
 </ul>
