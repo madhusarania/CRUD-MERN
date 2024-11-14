@@ -109,7 +109,7 @@ npm start
 <p>After setup, open <a href="http://localhost:3000">http://localhost:3000</a> to interact with the app, where you can add, view, update, and delete records.</p>
 
 ---
-Demo Link Video :- https://drive.google.com/file/d/1exdYunPvx8BKBcQewkIG59e8LxiFtlel/view?usp=drive_link
+Demo Video :- https://drive.google.com/file/d/1exdYunPvx8BKBcQewkIG59e8LxiFtlel/view?usp=drive_link
 
 
 
